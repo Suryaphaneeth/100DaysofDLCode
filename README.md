@@ -11,10 +11,14 @@ Collection of resources and making a start guide
 
 [Deep Learning Bible - Deep Learning](https://www.deeplearningbook.org/) - Day 0
 
-Python Machine Learning - Day 0
-[github repo](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
+[Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition) - Day 0
+I would like to use this book as a reference book to learn the concepts.
+
+[Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies](https://www.amazon.com/gp/product/0262029448/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) - Day 0
+I would like to do/complete this book by the end of this challenge.
 
 These are the resources I wish to use and I update them as I go.
+
 
 ## Projects
   
