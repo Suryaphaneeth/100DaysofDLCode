@@ -11,6 +11,9 @@ Collection of resources and making a start guide
 
 [Deep Learning Bible - Deep Learning](https://www.deeplearningbook.org/) - Day 0
 
+Python Machine Learning - Day 0
+[github repo](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
+
 These are the resources I wish to use and I update them as I go.
 
 ## Projects
