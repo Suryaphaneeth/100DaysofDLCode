@@ -1,4 +1,4 @@
-# DAY 0 - Sept 11
+# DAY 0 - Sept 18
 
 Collection of resources and making a start guide
 ## Online Resources
@@ -30,7 +30,7 @@ Final project I wish to implement is an auto summarizer which gives a short syno
 
 ------
 
-# Day 1 - Sept 12
+# Day 1 - Sept 19
 
 Udacity ML Charity Competition
 
