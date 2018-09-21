@@ -32,7 +32,13 @@ Final project I wish to implement is an auto summarizer which gives a short syno
 
 # Day 1 - Sept 19
 
-Udacity ML Charity Competition
+Calculating how happy are people relative to the GDP of the nation. 
+
+***
+
+# Day 2 - Sept 20
+
+California housing price prediction. I have only done till data parsing. 
 
 ***
 
